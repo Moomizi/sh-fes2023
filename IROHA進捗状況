@@ -1,0 +1,13 @@
+ファイル移動
+cd
+
+ファイル作れた。
+touch _
+git add _
+git commit -m "Create _"
+
+pushができるようになった。
+git push origin main
+
+ブランチを消せた。
+git push --delete origin _
